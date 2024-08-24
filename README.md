@@ -31,7 +31,7 @@ Run `node index.js` to start the bot
 
 ## Authors
 
-* **[Thakku God](https://github.com/KimchiTastesGood)** - *Original bot and idea*
+* **[Thakku God](https://github.com/ThakkuGod)** - *Original bot and idea*
 
 ## License
 

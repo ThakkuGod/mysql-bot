@@ -1,4 +1,9 @@
 # Instructions
+
+# Open  [Discord Developer Portal](https://discord.com/developers/applications)
+- Create New Application or Select Existing Application
+    <td><img src="https://github.com/ENT510/LGF_Banking/assets/145626625/7b5cbcb9-fe60-4828-9d1e-1bdc43fa7560" alt="New Application" width="300"/></td>
+    
 - Run `npm install` to install all dependencies
 - Open `config.json` update the values
 
